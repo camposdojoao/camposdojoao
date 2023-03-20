@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a data engineer trainee program @ Blueshift<br>I'm currently studying about Azure, Databricks, Python n machine learning models<br>Ask me what I'm studying and I'll try to be helpful and didactic. Ask me what I'm not studying and then I'll study it so we can discuss it.<br>Talks about data, AI, astronomy n hiking.<br><br>So long and thanks for all the fish.
+I'm currently working as a data engineer @ Blueshift<br>I'm currently studying about Azure, Databricks, Python n machine learning models<br>Ask me what I'm studying and I'll try to be helpful and didactic. Ask me what I'm not studying and then I'll study it so we can discuss it.<br>Talks about data, AI, astronomy n hiking.<br><br>So long and thanks for all the fish.
 
 
 ## 🌐 Socials:
